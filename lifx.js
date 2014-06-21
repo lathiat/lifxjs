@@ -2,7 +2,7 @@ var dgram = require('dgram');
 var net = require('net');
 var util = require('util');
 var events = require('events');
-var clone = require('component-clone');
+var clone = require('clone');
 
 var packet = require('./packet');
 

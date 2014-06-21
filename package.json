@@ -25,6 +25,6 @@
     "lightbulb"
   ],
   "dependencies" : {
-    "component-clone": "0.2.2"
+    "clone": "0.1.12"
   }
 }
